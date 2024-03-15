@@ -1,0 +1,150 @@
+RSpec/Rails:
+  Enabled: true
+
+RSpec/Capybara:
+  Enabled: true
+
+RSpec/AlignLeftLetBrace:
+  Enabled: true
+
+RSpec/DescribedClass:
+  Enabled: true
+
+RSpec/EmptyExampleGroup:
+  Enabled: true
+
+RSpec/EmptyLineAfterFinalLet:
+  Enabled: true
+
+RSpec/EmptyLineAfterSubject:
+  Enabled: true
+
+RSpec/ExampleWithoutDescription:
+  Enabled: true
+
+RSpec/LetBeforeExamples:
+  Enabled: true
+
+RSpec/OverwritingSetup:
+  Enabled: true
+
+RSpec/RepeatedDescription:
+  Enabled: true
+
+RSpec/FactoryBot:
+  Enabled: true
+
+RSpec/AroundBlock:
+  Enabled: true
+
+RSpec/BeforeAfterAll:
+  Enabled: true
+
+RSpec/ContextMethod:
+  Enabled: true
+
+RSpec/DescribeMethod:
+  Enabled: true
+
+RSpec/DescribeSymbol:
+  Enabled: true
+
+RSpec/EmptyHook:
+  Enabled: true
+
+RSpec/EmptyLineAfterExample:
+  Enabled: true
+
+RSpec/EmptyLineAfterExampleGroup:
+  Enabled: true
+
+RSpec/EmptyLineAfterHook:
+  Enabled: true
+
+RSpec/ExampleWording:
+  Enabled: true
+
+RSpec/ExpectInHook:
+  Enabled: true
+
+RSpec/FilePath:
+  Enabled: true
+  CustomTransform:
+    P2PAccounts: p2p_accounts
+    BlockP2P: block_p2p
+    P2PCompliantCustomer: p2p_compliant_customer
+
+RSpec/HooksBeforeExamples:
+  Enabled: true
+
+RSpec/IdenticalEqualityAssertion:
+  Enabled: true
+
+RSpec/ImplicitBlockExpectation:
+  Enabled: true
+
+RSpec/ImplicitExpect:
+  Enabled: true
+
+RSpec/ImplicitSubject:
+  Enabled: true
+
+RSpec/InstanceSpy:
+  Enabled: true
+
+RSpec/IteratedExpectation:
+  Enabled: true
+
+RSpec/LeakyConstantDeclaration:
+  Enabled: true
+
+RSpec/MessageChain:
+  Enabled: false
+
+RSpec/MissingExampleGroupArgument:
+  Enabled: true
+
+RSpec/MultipleSubjects:
+  Enabled: true
+
+RSpec/NotToNot:
+  Enabled: true
+  EnforcedStyle: to_not
+  Include:
+    - 'spec/**/v6/**.rb'
+
+RSpec/RepeatedExample:
+  Enabled: true
+
+RSpec/RepeatedExampleGroupBody:
+  Enabled: true
+
+RSpec/RepeatedExampleGroupDescription:
+  Enabled: true
+
+RSpec/RepeatedIncludeExample:
+  Enabled: true
+
+RSpec/UnspecifiedException:
+  Enabled: true
+
+RSpec/VariableName:
+  Enabled: true
+
+RSpec/VerifiedDoubleReference:
+  Enabled: true
+
+RSpec/VoidExpect:
+  Enabled: true
+
+RSpec/Yield:
+  Enabled: true
+
+RSpec/Be:
+  Enabled: true
+
+RSpec/BeEq:
+  Enabled: true
+
+RSpec/ContextWording:
+  Enabled: true
